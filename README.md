@@ -4,7 +4,16 @@ An AI-powered analytics assistant for ecommerce businesses. Upload your sales da
 
 ## Demo
 
-![App Screenshot](screenshot.png)
+<img width="2876" height="1322" alt="image" src="https://github.com/user-attachments/assets/ce6ed08b-fd08-4903-a517-f075859e1531" />
+
+<img width="2876" height="1322" alt="image" src="https://github.com/user-attachments/assets/6aa1dcd2-862b-4944-9a94-aa8e5f41843a" />
+
+<img width="2876" height="1322" alt="image" src="https://github.com/user-attachments/assets/f20517c4-bb87-454f-9876-f3c32b302330" />
+
+<img width="2876" height="1322" alt="image" src="https://github.com/user-attachments/assets/58b1edf0-0c40-4e96-8bea-e1ed7db9f6cd" />
+
+
+
 
 ## Features
 
